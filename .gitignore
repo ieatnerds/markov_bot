@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+.idea/markov_bot.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sf-acc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+auth.py
