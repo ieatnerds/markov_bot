@@ -43,6 +43,7 @@ try:
     logging.info('I Tweeted!\n')
 except Exception as err:
     # This is mostly to catch 405 forbidden's on duplicate tweets
+    # Although on this bot it would be astronomical to occur
     logging.info(str(err)+'\n')
 
 exit()

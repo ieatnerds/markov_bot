@@ -1,3 +1,5 @@
+# Based heavily on the example given on markovify's github page.
+
 import markovify
 
 
